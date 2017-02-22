@@ -27,6 +27,7 @@ Author: Faizan Ahmad (Fsecurify)
 Email: fsecurify@gmail.com
 Usage: pythonXssPy.py website.com (Do not write www.website.com OR http://www.website.com)
 Comprehensive Scan: python XssPy.py website.com -e
+Verbose logging: python XssPy.py website.com -v
 
 Description: XssPy is a python tool for finding Cross Site Scripting 
 vulnerabilities in websites. This tool is the first of its kind.
